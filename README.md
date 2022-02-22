@@ -1,6 +1,6 @@
 # flutter_selflearn
 
-A new Flutter project.
+A simple counter.
 
 ## Getting Started
 
